@@ -7,16 +7,14 @@ This is a sample application for the course 1DV42E
 - [X] Migrate a simple migration
 - [ ] Create a one-to-many relationship migration
 - [ ] Create a many-to-many relationship migration
-- [ ] Add payload to the many-to-many relational table
 - [X] Add an attribute
 - [X] Remove a column
 - [X] Make a column non nullable
 - [X] Referential Integrity
-- [ ] Enumerable types
 - [X] Seeding the database
 - [X] Remove a table
 - [ ] Default values
-- [x] Clear the db
+- [X] Clear the db
 - [X] Rollback migration
 
 ## Rails specific tasks
