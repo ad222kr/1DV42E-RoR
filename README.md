@@ -5,7 +5,7 @@ This is a sample application for the course 1DV42E
 - [X] Create models
 - [X] Generate a migrations
 - [X] Migrate a simple migration
-- [ ] Create a one-to-many relationship migration
+- [X] Create a one-to-many relationship migration
 - [ ] Create a many-to-many relationship migration
 - [X] Add an attribute
 - [X] Remove a column
